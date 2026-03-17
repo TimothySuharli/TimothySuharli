@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @A Brainly User :D
+- 👋 Hi, I was @A Brainly User :)
 - 👀 I’m interested in... uh idk
-- 🌱 I’m currently learning python, scratch, and C++
+- 🌱 I’m currently learning python, SQL, and css
 
 <!---
 TimothySuharli/TimothySuharli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
